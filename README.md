@@ -1,6 +1,6 @@
 # Password Generator
 
-A modern **Password Generator** built using **Streamlit** that creates secure passwords with customizable options like digits and special characters.
+A modern **Password Generator** built using **Streamlit** that creates secure passwords with customizable options like digits and special characters. Additionally, it comes with a **Password Strength** Checker to evaluate your password’s security level.
 
 ## Project Demo
 🌐 Live Project: [Password Generator](https://huzaifapasswordgenerator.streamlit.app/)
